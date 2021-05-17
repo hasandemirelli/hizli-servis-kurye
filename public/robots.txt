@@ -1,0 +1,23 @@
+User-Agent: *
+Allow: /
+Disallow: /query
+Disallow: /cms
+Disallow: /cms/gelen-gonderiler
+Disallow: /cms/alinan-gonderiler
+Disallow: /cms/yeni-gonderi-ekle
+Disallow: /cms/dagitimdaki-gonderiler
+Disallow: /cms/teslim-edilen-gonderiler
+Disallow: /cms/delivered
+Disallow: /cms/musteriler
+Disallow: /cms/add-customer
+Disallow: /cms/gonderiler
+Disallow: /cms/add-post
+Disallow: /cms/kullanicilar
+Disallow: /cms/add-user
+Disallow: /cms/slaytlar
+Disallow: /cms/add-slide
+Disallow: /cms/giris-yap
+Disallow: /cms/login
+Disallow: /cms/logout
+Sitemap: https://xn--istekapnda-3ub.com/sitemap.xml
+
